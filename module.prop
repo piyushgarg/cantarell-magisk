@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
+id=cantarell-font
+name=Cantarell Font Magisk Module
+version=v1.1
+versionCode=1
+author=piyushgarg
 description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+support=https://github.com/piyushgarg/cantarell-magisk
